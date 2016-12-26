@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
-"""Network Security Sam has encrypted his password. 
-The encryption system is publically available and can be accessed with this form:"""
+"""Basic Level 6"""
 
 word = raw_input('Enter the to decrypt: ')
 
