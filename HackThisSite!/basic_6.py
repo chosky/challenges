@@ -2,7 +2,7 @@
 
 """Basic Level 6"""
 
-word = raw_input('Enter the to decrypt: ')
+word = raw_input('Enter the code to decrypt: ')
 
 new_word = ''
 
